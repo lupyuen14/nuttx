@@ -28,6 +28,7 @@ on:
       - "Documentation/**"
     branches:
       - "releases/*"
+      - test
     tags:
 
 permissions:
